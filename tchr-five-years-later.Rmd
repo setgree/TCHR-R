@@ -1,19 +1,54 @@
 ---
-title: "Five reflections on the Contact Hypothesis Re-evaluated five years later"
+title: "Five reflections fivce years out from 'The Contact Hypothesis Re-evaluated'"
 author: "Seth Green"
-abstract: "This article provides five policy-oriented observations on the state of contact hypothesis research five years after the publication of 'The Contact Hypothesis Re-evaluated'. I argue that that paper's overall assessment that contact 'typically works', but with significant caveats regarding ...some other stuff
+abstract: "This article provides five policy-oriented observations on the state of contact hypothesis research five years after the publication of 'The Contact Hypothesis Re-evaluated'. I argue that that paper's overall assessment that contact 'typically works', but with significant caveats regarding ...some other stuff"
 thanks: "Acknowledgements go here"
-wordcount: wordcountaddin::word_count()
+wordcount: 758
 appendices: [""]
-bibliography: TCHR-bibs.ref
+bibliography: TCHR-refs.bib
 titlepage: true
 numbersections: true
 output: draft::working_paper
 knit: draft::knit_with_appendices
 ---
 
-# Introduction: intergroup contact as a panacea for prejudice? 
-The question of what, if anything, consistently reduces prejudice, stereotyping and discrimination between groups is as vital today for functioning democracy as it has ever been. 
+# Introduction: The contact hypothesis, seventy years later
 
+The question of what, if anything, consistently reduces prejudice, stereotyping and discrimination between groups is as vital today for functioning democracy as it has ever been. A healthy literature across the social sciences continues to investigate whether intergroup contact might get the job done. The core idea of the contact approach is that prejudice stems from ignorance, so the more we can get groups to interact directly with one another -- especially under specialized conditions (first proposed seventy years ago by @allport1954) of equal status, authority sanction, shared goals, and cooperation -- the less they will hate and fear one another.
 
+Eighteen years ago, an influential meta-analysis by @pettigrew2006 reviewed hundreds of studies comprising hundreds of thousands of subjects and found that contact "typically reduces intergroup prejudice" (p. 751). Moreover, Allport's facilitating conditions were evidently not necessary for salubrious effects: “samples with no claim to these key conditions still show significant relationships between contact and prejudice” (p. 766). Overall, they write, “[t]here is little need to demonstrate further contact's general ability to lessen prejudice. Results from the meta-analysis conclusively show that intergroup contact can promote reductions in intergroup prejudice” (p. 751).]
 
+Five years ago, my colleagues Betsy Levy Paluck and Don Green and I published 'The contact Hypothesis Re-evaluated' [@paluck2019], an updated meta-analysis with an amended methodological focus. Rather than looking at the entirety of contact literature, we focused exclusively on randomized controlled trials with at least a day of delay between the commencement of treatment and outcome measurement. What we found can be summed up in five points.
+
+1.  Contact typically reduces prejudice. Our overall meta-analytic effect was = 0.39, compared to "mean rs that range from -.205 to -.214" for Pettigrew and Tropp (p. 757).
+
+2.  However, we found that our measured effect sizes were not robust to differences in study quality. Our studies had a statistically significant relationship between standard error and effect size with an intercept of -0.014, implying "that a very large study would be expected to produce a minuscule increase in prejudice" (p. 131). Morover, studies with pre-analysis plans had a pooled effect size of $\Delta$ = 0.016, compared to $\Delta$ = 0.451 for studies without.
+
+3.  We found significant heterogeneity between targets of prejudice. Thje most effective interventions were those aimed at reducing prejudice against people with disabilities, while studies aimed at sentiments towards ethnic, racial, religious and immigrant groups were generally less effective ($\Delta$ = 0.25, still a statistically significant effect).
+
+4.  The literature had significant gaps. For instance, there were no studies looking at interracial prejudice in people over 25.
+
+5.  There were no systematic variations of Allport's facilitating conditions.
+
+In sum, while our analysis pointe in the same direction as Pettigrew and Tropp's -- that contact typically reduces prejudice -- we cocluded that the evidence did not speak directly to the most deeply ingrained and pernicious forms of prejudice: interracial and interethnic animus between adults. Moreover, we saw suggestive evidence that the observed effects were potentially a function of publication bias and researcher degrees of freedom. In other words, the jury was still out on where and when contact reduced prejudice.
+
+It has now been five years since that piece was published, and eight since we stopped collecting data. What have we learned since then?
+
+This piece offers five observations on that theme. It is not intended as a systematic review of subsequent contact literature (see @clochard2022 and Lowe (forthcoming) for that). Rather, I offer five policy-relevant observations about the state of the field.
+
+# A welcome surge in field experiments
+
+## The deepest antipathies prove the hardest to change
+
+-   Christians & Muslims in Nigeria or Iraq
+
+# Disambiguating prejudice
+
+-   These antipathies are very different than 'prejudice' as people commonly think of it. Prejudice has a connotation of "pre-judgment" i.e. making a snap judgment about someone before you know all the facts, whereas these antipathies are based on real-life, hard to argue with experiences, like a pogrom. A medicine designed to deal with the former is not going to be well-suited for the latter.
+-   A richer theory of animus would have space for antipathy, prejudice, discrimination, dislike, fear
+
+# Light touch interventions are well-suited for light touch animus
+
+-   imagined contact, online contact, VR contact, etc. are all clearly not well suited for antipathy. If you see evidence of these strategies working, it means either a shallow prejudice (women with autism) or some questionable research practices.
+
+# We still need systematic tests of the facilitating conditions
