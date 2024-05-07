@@ -1,0 +1,19 @@
+---
+title: "Five reflections on the Contact Hypothesis Re-evaluated five years later"
+author: "Seth Green"
+abstract: "This article provides five policy-oriented observations on the state of contact hypothesis research five years after the publication of 'The Contact Hypothesis Re-evaluated'. I argue that that paper's overall assessment that contact 'typically works', but with significant caveats regarding ...some other stuff
+thanks: "Acknowledgements go here"
+wordcount: wordcountaddin::word_count()
+appendices: [""]
+bibliography: TCHR-bibs.ref
+titlepage: true
+numbersections: true
+output: draft::working_paper
+knit: draft::knit_with_appendices
+---
+
+# Introduction: intergroup contact as a panacea for prejudice? 
+The question of what, if anything, consistently reduces prejudice, stereotyping and discrimination between groups is as vital today for functioning democracy as it has ever been. 
+
+
+
