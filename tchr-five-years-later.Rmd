@@ -47,9 +47,11 @@ In our meta-analysis, the most effective interventions are aimed at prejudices t
 
 We need a richer theory, I think, for the multitude of feelings of intergroup antipathy based on their severity. For instance, we might reserve 'prejudice' for negative feelings that can plausibly be attributed to ignorance and a lack of experience. For someone who has had real life, but not severe, negative experiences with the outgroup, perhaps we could use hostility. And for feelings of severe dislike, I would use animus or antipathy.
 
-My working theory for the contact hypothesis is that intergroup contact is effective at reducing prejudice, moderately effective at reducing hostility, and not well-suited for reducing animus. For the more severe disease, we need stronger medicine.
+My working theory for the contact hypothesis is that intergroup contact is effective at reducing prejudice, moderately effective at reducing hostility, and not well-suited for reducing animus. For the worse disease, we need stronger medicine. (Sustained economic cooperation and a shared commitment to a 'truth and reconciliation' mindset come to mind.)
 
 # Light touch interventions for light touch prejudice
+
+In parallel to a new generation of contact field experiments, many scholars are exploring the boundaries of what my colleagues call 'light touch interventions' [@paluck2021]].
 
 -   imagined contact, online contact, VR contact, etc. are all clearly not well suited for antipathy. If you see evidence of these strategies working, it means either a shallow prejudice (women with autism) or some questionable research practices.
 
